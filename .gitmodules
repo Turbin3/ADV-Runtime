@@ -19,3 +19,6 @@
 [submodule "stan_zkvm_SP1"]
 	path = stan_zkvm_SP1
 	url = https://github.com/LStan/zk-rollup
+[submodule "Kym0211-rollub_stub"]
+	path = Kym0211-rollub_stub
+	url = https://github.com/Kym0211/rollup_stub
