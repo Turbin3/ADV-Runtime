@@ -37,10 +37,11 @@ This repository serves as a curated collection of projects created by participan
   - **Status**: Completed during cohort.
   - **Tech Stack**: Solana SVM API, Solana SDK, Rust, Typescript.
 
-- **Stan ZKSVM rollup SP1:**
-  - **Description**: A zk svm rollup building on the SP1 zk technology provided by Succinct.
+- **zkSVM rollup using SP1 zkVM:**
+  - **Description**: A zkSVM rollup built on the SP1 zkVM provided by Succinct.
   - **Status**: Completed during cohort.
-  - **Tech Stack**: Solana SVM API, Solana SDK, Succinct, Rust, Typescript.
+  - **Tech Stack**: Solana SVM API, Solana SDK, SP1 zkVM, Rust, Typescript.
+  - **Implemented By**: [Dodecahedr0x](https://github.com/Dodecahedr0x), [Stanislav](https://github.com/LStan) and [The Wuh](https://github.com/thewuhxyz)
 
 - **[Add more projects here...]**
   - **Description**: [Brief overview of the project and its purpose]
