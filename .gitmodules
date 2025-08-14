@@ -23,3 +23,7 @@
 	path = zkSVM_with_SP1
 	url = https://github.com/Dodecahedr0x/zk-rollup
 
+[submodule "CPSR-LITE"]
+	path = CPSR-LITE
+	url = https://github.com/RedaRahmani/Rollup.git
+	branch = main
