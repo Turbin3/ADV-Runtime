@@ -30,3 +30,6 @@
 	path = CPSR-LITE
 	url = https://github.com/RedaRahmani/Rollup.git
 	branch = main
+[submodule "agave-scheduler-bindings"]
+	path = agave-scheduler-bindings
+	url = https://github.com/wellingtonmb88/agave-scheduler-bindings
